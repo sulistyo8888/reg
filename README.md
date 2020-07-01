@@ -1,4 +1,4 @@
-Daftar + Auto Claim Voucher GOFOOD, GOSEND, GOMART Terbaru 09/06/2020
+Daftar + Auto Claim Voucher GOFOOD, GOSEND, GOMART Terbaru 22/06/2020
 Jangan Lupa Berdoa Sebelum Menjalankan Scripnya
 Perhatikan Langkah-Langkahnya
 1. pkg update
